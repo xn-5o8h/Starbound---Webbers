@@ -1,0 +1,47 @@
+{
+  "itemName" : "webbert0spear",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "It's ^red;primitive^reset;, but at least it works. ^red;With poor efficiency,^reset;^green; but works as a hunting weapon.^reset;",
+  "shortdescription" : "Primitive Spear",
+  "radioMessagesOnPickup" : [ "PickupWebbert0spear" ],
+  "tooltipKind" : "sword",
+  "category" : "spear",
+  "twoHanded" : true,
+  "learnBlueprintsOnPickup" : [ "webbert1spear" ],
+  "itemTags" : ["weapon","melee","spear"],
+  "inventoryIcon" : "webbert0spear.png",
+  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "webbert0spear.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "scripts" : [
+  "/items/active/weapons/melee/meleeweapon.lua"
+  ],
+
+  "elementalType" : "physical",
+
+  "aimOffset" : -1.0,
+  "primaryAbilityType" : "spearstab",
+  "primaryAbility" : {
+    "scripts" : [],
+
+    "fireTime" : 0.5,
+    "baseDps" : 7.0,
+    "damageConfig" : {
+      "damageSourceKind" : "bow",
+      "statusEffects" : [ ],
+      "knockback" : 20
+    }
+  },
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

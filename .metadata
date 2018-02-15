@@ -1,0 +1,11 @@
+{
+  "tags" : "Species",
+  "author" : "Vetpetmon",
+  "description" : "Adds Webber(s) to your Starbound game!",
+  "friendlyName" : "Webber Race Mod",
+  "link" : "",
+  "name" : "WebberRaceMod",
+  "path" : ".",
+  "steamContentId" : "",
+  "version" : "0.4.8"
+}

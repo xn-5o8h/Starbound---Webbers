@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 6 },
+    { "item" : "silk", "count" : 6 }
+  ],
+  "output" : { "item" : "webbersword", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

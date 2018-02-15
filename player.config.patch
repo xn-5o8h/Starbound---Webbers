@@ -1,0 +1,3 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/webber", "value" : [ "protectorate1", "protectorate2", "webberbook1", "webberbookclonemanual" ] }
+]

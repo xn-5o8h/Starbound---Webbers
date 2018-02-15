@@ -1,0 +1,5 @@
+[
+    { 
+        "op": "add", "path": "/webberDescription", "value": "It's a bee, but it stings through it's wings."
+    } 
+]

@@ -1,0 +1,5 @@
+[
+    { 
+        "op": "add", "path": "/webberDescription", "value": "We like the sun, too!"
+    } 
+]

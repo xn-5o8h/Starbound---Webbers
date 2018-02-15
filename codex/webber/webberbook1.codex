@@ -1,0 +1,13 @@
+{
+	"id" : "webberbook1",
+	"title" : "INTRODUCING: Your new friends",
+	"description" : "It contains a handy bit of information about how to get spider silk.",
+	"icon" : "humancover7.png",
+	"contentPages" : [
+    "... And in the creation of both a spider egg and put the egg in a spider cage, one can get a slow but virtually infinite supply of spider silk, at the cost of a possible rebellion... (The rest of the book is boring and useless to you. You already know about everything about spiders.)"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

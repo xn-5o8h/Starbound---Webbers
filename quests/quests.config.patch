@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/webber",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/webber",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

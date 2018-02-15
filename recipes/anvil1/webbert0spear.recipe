@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 3 },
+    { "item" : "cobblestonematerial", "count" : 6 },
+    { "item" : "plantfibre", "count" : 10 }
+  ],
+  "output" : { "item" : "webbert0spear", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

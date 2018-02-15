@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "webber",
 	"subTitle" : "O2",
-	"description" : "The indigestible. Cares deeply about all of his friends and looks like an innocent baby until he's ticked."
+	"description" : "Humans trapped in mythical spider-like creatures. They're cute, but they tend to eat their fallen. Webbers are famous for being the only species without a known origin."
   },
   "nameGen" : [ "/species/webbermalenamegen.config:names", "/species/webberfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/webberhurt_male1.ogg", "/sfx/humanoid/webberhurt_female1.ogg" ],
